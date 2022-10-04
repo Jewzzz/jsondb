@@ -28,5 +28,21 @@
         "name": "Erik",
         "age": "24",
         "birthdate": "10/31/1995"
+    },
+    {
+        "name": "Chamika",
+        "age": "24",
+        "birthdate": "10/31/1995"
+    },
+    {
+        "name": "Tharidu",
+        "age": "25",
+        "birthdate": "10/31/1997"
+    },
+    {
+        "name": "Akila",
+        "age": "25",
+        "birthdate": "10/31/1997"
     }
+    
 ]
